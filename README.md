@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Collinschudy
-- 👀 I’m interested in python, html and CSS
+- 👀 I’m interested in python and frontend web development
 - 🌱 I’m currently learning CSS
 - 💞️  I'm Looking To Collaborate with Data Scientists, Machine Learning Engineers, and web developers
 - 📫 you can send me a mail at collinschudy@gmail.com
