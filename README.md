@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Collinschudy
 - 👀 I’m interested in python and frontend web development
-- 🌱 I’m currently learning CSS
-- 💞️  I'm Looking To Collaborate with Data Scientists, Machine Learning Engineers, and web developers
+- 🌱 I’m currently learning flask, flask-sqlachemy and postgresql
+- 💞️  I'm Looking To Collaborate with Frontend, Backend and Fullstack Engineers.
 - 📫 you can send me a mail at collinschudy@gmail.com
 
 <!---
