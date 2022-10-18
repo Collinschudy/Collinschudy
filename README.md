@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collinschudy
 - 👀 I’m interested in python and frontend web development
-- 🌱 I’m currently learning flask, flask-sqlachemy and postgresql
+- 🌱 I’m currently diving deeper into flask and postgresql and I am currently seeking job openings as a Backend Developer.
 - 💞️  I'm Looking To Collaborate with Frontend, Backend and Fullstack Engineers.
 - 📫 you can send me a mail at collinschudy@gmail.com
 
