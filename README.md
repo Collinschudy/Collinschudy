@@ -4,7 +4,7 @@
 - 💞️  I'm Looking To Collaborate with Frontend, Backend and Fullstack Engineers.
 - 📫 you can send me a mail at collinschudy@gmail.com
 
-##My stacks
+## My stack
 
 
 JavaScript Google Cloud Netlify Firebase Vercel Next JS React TailwindCSS Figma MUI 
